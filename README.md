@@ -1,7 +1,13 @@
 # Hi there, I'm Boules H. Mokhtar 👋
 
 ## 👨‍💻 About Me
-I'm a results-driven Senior Software Engineer with 6+ years of experience in cross-platform and native mobile development. I specialize in Flutter, Kotlin, Swift, and .NET, with a proven record of launching scalable, high-performance apps. I excel at leading mobile teams, optimizing app performance, and delivering features under tight deadlines. I am passionate about clean architecture, CI/CD, and performance optimization.
+Passionate and results-driven Senior Mobile & Full-Stack Engineer with 5+ years of experience in building scalable mobile and web applications. Skilled in Flutter, Dart, Swift, Kotlin, Java, JavaScript, TypeScript, React, and Node.js, with proven expertise in designing, developing, and deploying cross-platform and native applications.
+
+Built from scratch a SaaS platform that controls and deploys full mobile applications with dynamic UI customization (colors, themes, assets) and advanced user-role management. Led the backend, frontend, and mobile development, delivering a robust, scalable, and high-performing system.
+
+Proficient in leveraging AI/ML tools to accelerate development workflows, automate daily engineering tasks, and optimize code quality, enabling faster delivery and reduced operational overhead.
+
+Experienced in leading teams, implementing CI/CD pipelines, and applying clean architecture and design patterns to deliver user-centric applications. Adept at RESTful API integration, DevOps practices, and system design, with a consistent track record of improving performance, reducing technical debt, and boosting user engagement.
 
 ## 🛠️ Skills & Technologies
 - **Languages:** Dart (Flutter), Kotlin, Swift, .NET, JavaScript
