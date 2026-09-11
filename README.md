@@ -1,6 +1,6 @@
 # Hi, I'm Boules Hisham Mokhtar 👋
 
-### Senior Flutter Engineer · Mobile Architecture Specialist · CI/CD & DevOps Expert
+### Senior Software Engineer · Mobile Architecture Specialist · CI/CD & DevOps Expert
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-boules--engineer-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/boules-engineer/) [![Email](https://img.shields.io/badge/Email-bolespolo4%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:bolespolo4@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-bolespolo4-181717?style=flat-square&logo=github)](https://github.com/bolespolo4) [![Profile Views](https://komarev.com/ghpvc/?username=bolespolo4&style=flat-square&color=1A56DB)](https://github.com/bolespolo4)
 
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Senior Flutter Engineer with **6+ years** architecting and delivering enterprise-grade, multi-platform mobile applications on Clean Architecture, SOLID principles, and Dart 3 sealed-class type safety.
+Senior Software Engineer with **6+ years** architecting and delivering enterprise-grade, multi-platform mobile applications on Clean Architecture, SOLID principles, and Dart 3 sealed-class type safety.
 
 Currently lead architect of **PAAS** at Qara Digital Solutions — a single-codebase platform powering **20+ live production apps** across the Saudi market, with a self-built multi-flavor CI/CD pipeline, a multi-theme control dashboard, and fully self-hosted release infrastructure.
 
@@ -18,7 +18,7 @@ Background spans full-stack web (Vue.js, React.js, Node.js, Laravel, Django) fro
 
 ```dart
 class BoulesHisham {
-  final String role     = "Senior Flutter Engineer / Mobile Architect";
+  final String role     = "Senior Software Engineer / Mobile Architect";
   final String location = "Cairo, Egypt 🇪🇬 (Open to Remote / Relocation)";
   final String current  = "Lead Mobile Architect @ Qara Digital Solutions (KSA)";
 
@@ -132,7 +132,7 @@ Two open-source Flutter dev tools: build-time model code generation, and compile
 ## 💼 Experience
 
 ```text
-Senior Flutter Engineer — Lead Mobile Architect
+Senior Software Engineer — Lead Mobile Architect
 Qara Digital Solutions · Sep 2023 – Present · Cairo, Egypt / Remote (KSA)
 
 Head of Mobile Development
