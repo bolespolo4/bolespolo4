@@ -1,10 +1,18 @@
-# Hi, I'm Boules Hisham Mokhtar 👋
+<div align="center">
 
-### Senior Software Engineer · Lead Mobile Architect · AI & Agentic AI
+<img src="./assets/header.svg" alt="Boules Hisham Mokhtar, Senior Software Engineer, Lead Mobile Architect, AI and Agentic AI" width="100%" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-bolespolo4.github.io-4C9DFF?style=flat-square&labelColor=10234A)](https://bolespolo4.github.io/portifilio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-boules--engineer-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/boules-engineer/) [![Email](https://img.shields.io/badge/Email-bolespolo4%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:bolespolo4@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-bolespolo4-181717?style=flat-square&logo=github)](https://github.com/bolespolo4) [![Profile Views](https://komarev.com/ghpvc/?username=bolespolo4&style=flat-square&color=4C9DFF)](https://github.com/bolespolo4)
+<br />
 
-My portfolio is live: **[bolespolo4.github.io/portifilio](https://bolespolo4.github.io/portifilio/)**. Five chapters on mobile platforms, ERP, e-commerce, web SaaS and agentic AI tooling.
+<a href="https://bolespolo4.github.io/portifilio/"><img src="https://img.shields.io/badge/Portfolio-bolespolo4.github.io%2Fportifilio-4C9DFF?style=flat-square&labelColor=10234A" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/boules-engineer/"><img src="https://img.shields.io/badge/LinkedIn-boules--engineer-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+<a href="mailto:bolespolo4@gmail.com"><img src="https://img.shields.io/badge/Email-bolespolo4%40gmail.com-D14836?style=flat-square&logo=gmail" alt="Email" /></a>
+<a href="https://github.com/bolespolo4"><img src="https://img.shields.io/badge/GitHub-bolespolo4-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+<a href="https://github.com/bolespolo4"><img src="https://komarev.com/ghpvc/?username=bolespolo4&style=flat-square&color=4C9DFF&labelColor=10234A" alt="Profile views" /></a>
+
+My portfolio is live: <strong><a href="https://bolespolo4.github.io/portifilio/">bolespolo4.github.io/portifilio</a></strong>. Five chapters on mobile platforms, ERP, e-commerce, web SaaS and agentic AI tooling.
+
+</div>
 
 ---
 
@@ -46,32 +54,33 @@ class BoulesHisham {
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart_3-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+<p align="center"><code>MOBILE</code><br />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio&theme=dark" alt="" /><br /><img src="https://img.shields.io/badge/BLoC_%2F_Cubit-10234A?style=flat-square" alt="BLoC / Cubit" /> <img src="https://img.shields.io/badge/Clean_Architecture-10234A?style=flat-square" alt="Clean Architecture" /> <img src="https://img.shields.io/badge/SOLID-10234A?style=flat-square" alt="SOLID" /> <img src="https://img.shields.io/badge/Sealed_Classes_(Dart_3)-10234A?style=flat-square" alt="Sealed Classes (Dart 3)" /> <img src="https://img.shields.io/badge/Repository_Pattern-10234A?style=flat-square" alt="Repository Pattern" />
+</p>
 
-### 🧠 Architecture & Patterns
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-10234A?style=flat-square) ![SOLID](https://img.shields.io/badge/SOLID_Principles-10234A?style=flat-square) ![BLoC](https://img.shields.io/badge/BLoC_/_Cubit-10234A?style=flat-square) ![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-10234A?style=flat-square) ![Sealed Classes](https://img.shields.io/badge/Sealed_Classes_(Dart_3)-10234A?style=flat-square)
+<p align="center"><code>BACKEND &amp; WEB</code><br />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,nextjs,dotnet,cs,django,laravel,react,vue&theme=dark" alt="" /><br /><img src="https://img.shields.io/badge/REST_APIs-10234A?style=flat-square" alt="REST APIs" /> <img src="https://img.shields.io/badge/JWT_auth-10234A?style=flat-square" alt="JWT auth" /> <img src="https://img.shields.io/badge/WebSockets-10234A?style=flat-square" alt="WebSockets" />
+</p>
 
-### 🔥 Firebase
-![Firebase Auth](https://img.shields.io/badge/Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Crashlytics](https://img.shields.io/badge/Crashlytics-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![FCM](https://img.shields.io/badge/FCM_Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Firebase RTDB](https://img.shields.io/badge/Realtime_DB-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Firebase Analytics](https://img.shields.io/badge/Analytics-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<p align="center"><code>ERP PLATFORMS</code><br />
+<img src="https://img.shields.io/badge/Microsoft_Dynamics-10234A?style=flat-square" alt="Microsoft Dynamics" /> <img src="https://img.shields.io/badge/HRMS_%2F_CRM_%2F_Asset_Management-10234A?style=flat-square" alt="HRMS / CRM / Asset Management" />
+</p>
 
-### ⚙️ DevOps & CI/CD
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions_(self--hosted)-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Fastlane](https://img.shields.io/badge/Fastlane-0F2000?style=flat-square&logo=fastlane&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CapRover](https://img.shields.io/badge/CapRover-003366?style=flat-square) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle) ![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=flat-square&logo=cocoapods&logoColor=white)
+<p align="center"><code>DATA &amp; FIREBASE</code><br />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,firebase&theme=dark" alt="" /><br /><img src="https://img.shields.io/badge/ObjectBox-10234A?style=flat-square" alt="ObjectBox" /> <img src="https://img.shields.io/badge/Realtime_DB-10234A?style=flat-square" alt="Realtime DB" /> <img src="https://img.shields.io/badge/FCM-10234A?style=flat-square" alt="FCM" /> <img src="https://img.shields.io/badge/Crashlytics-10234A?style=flat-square" alt="Crashlytics" /> <img src="https://img.shields.io/badge/Analytics-10234A?style=flat-square" alt="Analytics" />
+</p>
 
-### 🔐 Security & Reliability
-![App Check](https://img.shields.io/badge/Firebase_App_Check-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Play Integrity](https://img.shields.io/badge/Play_Integrity_API-3DDC84?style=flat-square&logo=android&logoColor=white) ![RASP](https://img.shields.io/badge/RASP_(Cert_Pinning_/_Root_Detection)-B91C1C?style=flat-square) ![mTLS](https://img.shields.io/badge/mTLS_Client_Auth-B91C1C?style=flat-square) ![SSH](https://img.shields.io/badge/SSH_Key_Access_Control-B91C1C?style=flat-square)
+<p align="center"><code>DEVOPS &amp; CI/CD</code><br />
+<img src="https://skillicons.dev/icons?i=githubactions,docker,gradle,ubuntu,bash&theme=dark" alt="" /><br /><img src="https://img.shields.io/badge/Fastlane-10234A?style=flat-square" alt="Fastlane" /> <img src="https://img.shields.io/badge/CocoaPods-10234A?style=flat-square" alt="CocoaPods" /> <img src="https://img.shields.io/badge/CapRover-10234A?style=flat-square" alt="CapRover" /> <img src="https://img.shields.io/badge/VPS_management-10234A?style=flat-square" alt="VPS management" />
+</p>
 
-### 🤖 AI-Assisted Development
-![RooCode](https://img.shields.io/badge/RooCode-10234A?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama_(Self--Hosted)-000000?style=flat-square&logo=ollama&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-10234A?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+<p align="center"><code>SECURITY</code><br />
+<img src="https://img.shields.io/badge/Firebase_App_Check-10234A?style=flat-square" alt="Firebase App Check" /> <img src="https://img.shields.io/badge/Play_Integrity-10234A?style=flat-square" alt="Play Integrity" /> <img src="https://img.shields.io/badge/RASP_(cert_pinning_%2F_root_detection)-10234A?style=flat-square" alt="RASP (cert pinning / root detection)" /> <img src="https://img.shields.io/badge/mTLS-10234A?style=flat-square" alt="mTLS" /> <img src="https://img.shields.io/badge/SSH_key_access_control-10234A?style=flat-square" alt="SSH key access control" />
+</p>
 
-### 🌐 Backend & Web
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_/_C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-### 🏢 ERP Platforms
-![Microsoft Dynamics](https://img.shields.io/badge/Microsoft_Dynamics-10234A?style=flat-square) ![HRMS CRM Assets](https://img.shields.io/badge/HRMS_/_CRM_/_Asset_Management-10234A?style=flat-square)
-
-### 🗄️ Data & Networking
-![ObjectBox](https://img.shields.io/badge/ObjectBox-00C800?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<p align="center"><code>AI &amp; AGENTIC</code><br />
+<img src="https://img.shields.io/badge/MCP-10234A?style=flat-square" alt="MCP" /> <img src="https://img.shields.io/badge/RooCode_custom_modes-10234A?style=flat-square" alt="RooCode custom modes" /> <img src="https://img.shields.io/badge/OpenRouter-10234A?style=flat-square" alt="OpenRouter" /> <img src="https://img.shields.io/badge/Claude-10234A?style=flat-square" alt="Claude" /> <img src="https://img.shields.io/badge/Ollama_(self--hosted)-10234A?style=flat-square" alt="Ollama (self--hosted)" /> <img src="https://img.shields.io/badge/GitHub_Copilot-10234A?style=flat-square" alt="GitHub Copilot" />
+</p>
 
 ---
 
@@ -161,6 +170,8 @@ Ergasti Digital · Oct 2019 – Mar 2022 · Cairo, Egypt
 
 ---
 
+---
+
 ## 🌱 Currently Exploring
 
 - 🎨 Deepening front-end engineering skills — working a vanilla JS → React roadmap alongside mobile work
@@ -171,9 +182,14 @@ Ergasti Digital · Oct 2019 – Mar 2022 · Cairo, Egypt
 
 ## 📊 GitHub Stats
 
-[![bolespolo4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bolespolo4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/bolespolo4)
+<div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bolespolo4&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/bolespolo4)
+<img src="https://github-readme-stats.vercel.app/api?username=bolespolo4&show_icons=true&hide_border=false&count_private=true&bg_color=060E1F&title_color=4C9DFF&text_color=E6EEFB&icon_color=4C9DFF&border_color=10234A" alt="bolespolo4 GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolespolo4&layout=compact&hide_border=false&bg_color=060E1F&title_color=4C9DFF&text_color=E6EEFB&border_color=10234A" alt="Top languages" height="165" />
+
+<img src="https://streak-stats.demolab.com/?user=bolespolo4&background=060E1F&ring=4C9DFF&fire=4C9DFF&currStreakLabel=4C9DFF&sideLabels=E6EEFB&currStreakNum=E6EEFB&sideNums=E6EEFB&dates=9DB2D6&stroke=10234A&border=10234A" alt="GitHub streak" />
+
+</div>
 
 ---
 
