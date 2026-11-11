@@ -1,24 +1,28 @@
 # Hi, I'm Boules Hisham Mokhtar 👋
 
-### Senior Software Engineer · Mobile Architecture Specialist · CI/CD & DevOps Expert
+### Senior Software Engineer · Lead Mobile Architect · AI & Agentic AI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-boules--engineer-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/boules-engineer/) [![Email](https://img.shields.io/badge/Email-bolespolo4%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:bolespolo4@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-bolespolo4-181717?style=flat-square&logo=github)](https://github.com/bolespolo4) [![Profile Views](https://komarev.com/ghpvc/?username=bolespolo4&style=flat-square&color=1A56DB)](https://github.com/bolespolo4)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bolespolo4.github.io-4C9DFF?style=flat-square&labelColor=10234A)](https://bolespolo4.github.io/portifilio/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-boules--engineer-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/boules-engineer/) [![Email](https://img.shields.io/badge/Email-bolespolo4%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:bolespolo4@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-bolespolo4-181717?style=flat-square&logo=github)](https://github.com/bolespolo4) [![Profile Views](https://komarev.com/ghpvc/?username=bolespolo4&style=flat-square&color=4C9DFF)](https://github.com/bolespolo4)
+
+My portfolio is live: **[bolespolo4.github.io/portifilio](https://bolespolo4.github.io/portifilio/)**. Five chapters on mobile platforms, ERP, e-commerce, web SaaS and agentic AI tooling.
 
 ---
 
 ## 👨‍💻 About Me
 
-Senior Software Engineer with **6+ years** architecting and delivering enterprise-grade, multi-platform mobile applications on Clean Architecture, SOLID principles, and Dart 3 sealed-class type safety.
+Senior Software Engineer with **6+ years** architecting and delivering platforms, not just apps: multi-platform mobile on Clean Architecture, SOLID principles and Dart 3 sealed-class type safety, plus the backends, ERP suites and AI tooling around them.
 
-Currently lead architect of **PAAS** at Qara Digital Solutions — a single-codebase platform powering **20+ live production apps** across the Saudi market, with a self-built multi-flavor CI/CD pipeline, a multi-theme control dashboard, and fully self-hosted release infrastructure.
+- 📱 **Mobile platforms**: lead architect of **PAAS** at Qara Digital Solutions, a single-codebase platform powering **20+ live production apps** across the Saudi market, with a self-built multi-flavor CI/CD pipeline, a multi-theme control dashboard and fully self-hosted release infrastructure.
+- 🏢 **ERP suites**: as Head of Mobile at CorporateStack I led 10+ engineers and delivered CS HRMS, CS CRM and CS Assets, with 5+ major launches.
+- 🛒 **E-commerce**: a React and TypeScript SaaS platform handling **10,000+ monthly transactions**, with native payment gateways, wallet and points, and WordPress and Salla integrations.
+- 🌐 **Web SaaS**: Django, Vue and React platforms serving **80+ enterprise clients** at Ergasti Digital, plus NestJS, PostgreSQL, Redis and WebSocket backends.
+- 🤖 **AI & agentic tooling**: LLM and MCP toolkits, custom agent modes and self-hosted models wired into my IDE. I build my own AI-assisted tooling rather than just consuming off-the-shelf copilots.
 
-Beyond day-to-day feature work, I own the platform's security and DevSecOps posture — Firebase App Check, RASP hardening (certificate pinning, root/jailbreak detection), and incident response when things go wrong — and I build my own AI-assisted tooling rather than just consuming off-the-shelf copilots.
-
-Background spans full-stack web (Vue.js, React.js, Node.js, Laravel, Django) from earlier in my career, which now shows up as an advantage — I think about mobile apps in terms of the APIs and systems behind them, not just the UI layer.
+I also own the platform's security and DevSecOps posture: Firebase App Check, RASP hardening (certificate pinning, root/jailbreak detection) and incident response when things go wrong.
 
 ```dart
 class BoulesHisham {
-  final String role     = "Senior Software Engineer / Mobile Architect";
+  final String role     = "Senior Software Engineer / Lead Mobile Architect / Agentic AI";
   final String location = "Cairo, Egypt 🇪🇬 (Open to Remote / Relocation)";
   final String current  = "Lead Mobile Architect @ Qara Digital Solutions (KSA)";
 
@@ -29,8 +33,9 @@ class BoulesHisham {
     "Multi-Flavor CI/CD & Self-Hosted Runners",
     "Mobile App Security (App Check, RASP, mTLS)",
     "Firebase Full-Stack Integration",
-    "AI-Assisted Dev Tooling (self-hosted LLMs)",
-    "Full-Stack Background (Node.js, Django, React)",
+    "Agentic AI (MCP, custom agent modes, self-hosted LLMs)",
+    "Backend & APIs (NestJS, Node.js, .NET, Django, Laravel)",
+    "ERP & Web SaaS (HRMS / CRM / Assets, React, Vue)",
   ];
 
   final String philosophy = "Build it right — not just make it work.";
@@ -45,7 +50,7 @@ class BoulesHisham {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart_3-0175C2?style=flat-square&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 
 ### 🧠 Architecture & Patterns
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1A56DB?style=flat-square) ![SOLID](https://img.shields.io/badge/SOLID_Principles-1A56DB?style=flat-square) ![BLoC](https://img.shields.io/badge/BLoC_/_Cubit-1A56DB?style=flat-square) ![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-1A56DB?style=flat-square) ![Sealed Classes](https://img.shields.io/badge/Sealed_Classes_(Dart_3)-1A56DB?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-10234A?style=flat-square) ![SOLID](https://img.shields.io/badge/SOLID_Principles-10234A?style=flat-square) ![BLoC](https://img.shields.io/badge/BLoC_/_Cubit-10234A?style=flat-square) ![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-10234A?style=flat-square) ![Sealed Classes](https://img.shields.io/badge/Sealed_Classes_(Dart_3)-10234A?style=flat-square)
 
 ### 🔥 Firebase
 ![Firebase Auth](https://img.shields.io/badge/Auth-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Crashlytics](https://img.shields.io/badge/Crashlytics-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![FCM](https://img.shields.io/badge/FCM_Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Firebase RTDB](https://img.shields.io/badge/Realtime_DB-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Firebase Analytics](https://img.shields.io/badge/Analytics-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -57,13 +62,16 @@ class BoulesHisham {
 ![App Check](https://img.shields.io/badge/Firebase_App_Check-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Play Integrity](https://img.shields.io/badge/Play_Integrity_API-3DDC84?style=flat-square&logo=android&logoColor=white) ![RASP](https://img.shields.io/badge/RASP_(Cert_Pinning_/_Root_Detection)-B91C1C?style=flat-square) ![mTLS](https://img.shields.io/badge/mTLS_Client_Auth-B91C1C?style=flat-square) ![SSH](https://img.shields.io/badge/SSH_Key_Access_Control-B91C1C?style=flat-square)
 
 ### 🤖 AI-Assisted Development
-![RooCode](https://img.shields.io/badge/RooCode-6D28D9?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama_(Self--Hosted)-000000?style=flat-square&logo=ollama&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-6D28D9?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![RooCode](https://img.shields.io/badge/RooCode-10234A?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama_(Self--Hosted)-000000?style=flat-square&logo=ollama&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-10234A?style=flat-square) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square) ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
-### 🌐 Full-Stack
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+### 🌐 Backend & Web
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![.NET](https://img.shields.io/badge/.NET_/_C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### 🏢 ERP Platforms
+![Microsoft Dynamics](https://img.shields.io/badge/Microsoft_Dynamics-10234A?style=flat-square) ![HRMS CRM Assets](https://img.shields.io/badge/HRMS_/_CRM_/_Asset_Management-10234A?style=flat-square)
 
 ### 🗄️ Data & Networking
-![ObjectBox](https://img.shields.io/badge/ObjectBox-00C800?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![ObjectBox](https://img.shields.io/badge/ObjectBox-00C800?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ---
 
@@ -149,6 +157,7 @@ Ergasti Digital · Oct 2019 – Mar 2022 · Cairo, Egypt
 - 🎓 **CS50: Introduction to Computer Science** — Harvard University
 - 🎓 **CS50: Introduction to Programming with Python** — Harvard University
 - 🏅 **Flutter Apprentice** — Google
+- 🎓 **The Complete Flutter & Dart Bootcamp** — Udemy
 
 ---
 
@@ -178,7 +187,7 @@ Ergasti Digital · Oct 2019 – Mar 2022 · Cairo, Egypt
 
 ## 🤝 Open To
 
-- 💼 Senior Flutter / Mobile Engineer roles
+- 💼 Senior Software Engineer / Mobile Architect roles
 - 🌍 Remote positions worldwide
 - ✈️ Relocation opportunities
 - 🧩 Freelance/contract Flutter work — active on Mostaql, with PAAS as a credibility anchor
