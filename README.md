@@ -134,69 +134,32 @@ class BoulesHisham {
 
 ## 🚀 Key Projects
 
-### 🏆 PAAS — Multi-Tenant Mobile Platform
-> Flutter · Dart 3 · Firebase · ObjectBox · GitHub Actions
+### 🏢 Platform & production work
 
-Single shared codebase powering **20+ live production apps** (Android + iOS) across the Saudi market.
+| Project | Keywords | Stack |
+| :--- | :--- | :--- |
+| 🏆 **PAAS — Multi-Tenant Mobile Platform** | 20+ live apps from one codebase · remote asset system (zero-release rebranding) · sealed-class type safety · CI-integrated QA | Flutter · Dart 3 · Firebase · ObjectBox |
+| 🔒 **PAAS Security Hardening** | App Check · Play Integrity · RASP (cert pinning, root detection) · mTLS · real incident response | Firebase · DevSecOps |
+| ⚙️ **Self-Hosted CI/CD Infrastructure** | GitHub Actions runners on bare metal · multi-flavor packaging · reusable quality-gate workflows | Ubuntu · GitHub Actions |
+| 🤖 **AI-Assisted Dev Environment** | custom RooCode modes · self-hosted Ollama (`qwen2.5-coder`) · Continue CLI into Android Studio & VS Code | Agentic AI · MCP |
+| 🎙️ **JARVIS Menu Bar App** | Jira polling + APK build triggers from the macOS menu bar · Keychain credential storage | Swift · SwiftUI |
+| 📦 **qara_widgets / core / auth / scanner** | 4 internal Flutter packages · strict versioned API boundaries | Flutter · Dart |
+| 🛠️ **Chameleon CLI v2.0** | multi-environment config orchestration · graceful API fallback | Node.js · TypeScript |
 
-- 🏗️ Feature-cluster modular Clean Architecture (`/clusters/`, `/users/`, `/core/`, `/di/`)
-- ⚡ Remote Asset System (ObjectBox + Firebase RTDB) — **zero app releases required** for brand/theme updates
-- 🔒 Dart 3 sealed-class ImageLoader — compile-time-safe image rendering
-- 🔄 Self-hosted CI/CD: GitHub Actions runners on dedicated hardware + VPS, packaging every branded flavor from one codebase
-- ✅ Automated CI-integrated QA pipeline (`flutter_test`, `bloc_test`, `mockito`) generating test-status reports on every PR
+### 🌐 On my GitHub
 
-### 🔒 Mobile App Security Hardening — PAAS
-> Firebase App Check · Play Integrity · RASP · mTLS
-
-Rolled out Firebase App Check across PAAS's multi-flavor builds — Play Integrity for production, a fixed-UUID debug provider for QC/staging — layered on top of an existing RASP posture (certificate pinning, root/jailbreak detection).
-
-- 🚨 Responded to a real security incident (a leaked private Dart package) by implementing mTLS client-certificate authentication and SSH key-based access controls for the self-hosted CI/CD pipeline
-- 🧹 Followed through with full post-incident hygiene across affected infrastructure
-
-### ⚙️ Self-Hosted CI/CD Infrastructure — PAAS
-> Ubuntu · GitHub Actions Runners · Bare-Metal Hardware
-
-Built and operate PAAS's self-hosted CI/CD on dedicated hardware (HP EliteDesk running Ubuntu) rather than relying on hosted runner minutes.
-
-- 🔧 Debugged runner registration failures and OOM crashes under load
-- 📦 Pre-installed and pinned the Flutter SDK (3.29.0) and Android SDK without a full Android Studio install
-- 🔁 Rewrote the project's quality-gate as a reusable GitHub Actions workflow shared across the monorepo
-
-### 🤖 AI-Assisted Dev Environment — RooCode + Self-Hosted LLMs
-> RooCode · Ollama · OpenRouter · Continue CLI
-
-Built a custom AI-assisted development setup for the PAAS monorepo rather than using default copilot tooling out of the box.
-
-- 🧩 Custom RooCode modes tuned separately for frontend, Flutter/mobile, and DevSecOps workflows
-- 🖥️ Self-hosted Ollama on a VPS running `qwen2.5-coder` and `qwen3-coder`, wired into Android Studio and VS Code via the Continue CLI
-
-<details>
-<summary><strong>🧰 More projects & tooling</strong> — macOS menu bar app, internal packages, CLIs and code generators</summary>
-<br />
-
-### 🎙️ JARVIS-Inspired Menu Bar App
-> Swift · SwiftUI · macOS · AppKit
-
-A native macOS menu bar utility that polls Jira and triggers GitHub Actions APK builds directly from the desktop — built to cut the friction of jumping between Jira, GitHub, and a terminal just to kick off a build.
-
-- 🛠️ Worked through AppKit integration quirks and Keychain entitlement issues to get secure credential storage working natively
-
-### 📦 Internal Package Monorepo — qara_widgets / qara_core / qara_auth / scanner
-> Flutter · Dart · Package Architecture
-
-4 internal Flutter packages enabling code reuse across the app suite, with strict versioned API boundaries between modules.
-
-### 🛠️ Chameleon CLI — Multi-Environment Developer Tooling
-> Node.js · TypeScript · Python · Shell
-
-Production CLI for multi-environment config orchestration with graceful API fallback. Released as **v2.0.0**.
-
-### ⚙️ Model Generator & 🎨 Resources Generator — Flutter/Dart Utilities
-> Flutter · Dart · build_runner
-
-Two open-source Flutter dev tools: build-time model code generation, and compile-time-safe access to UI resources (colors, fonts, assets).
-
-</details>
+| Repository | Keywords | Stack |
+| :--- | :--- | :--- |
+| [**CorporateStack HRMS**](https://github.com/bolespolo4/CorporateStack-HRMS) · [CRM](https://github.com/bolespolo4/CorporateStack-CRM) · [Assets](https://github.com/bolespolo4/CorporateStack-ASSETS) | enterprise ERP mobile suite · HR, CRM & asset management | Flutter |
+| [**electromerce**](https://github.com/bolespolo4/electromerce) | cross-platform e-commerce app · Android + iOS | Flutter · Dart |
+| [**Model-Generator**](https://github.com/bolespolo4/Model-Generator) · [Resources-Generator](https://github.com/bolespolo4/Resources-Generator) | build-time codegen · model/JSON serialization · type-safe UI resources (R.java-style) | Dart · build_runner |
+| [**centralized-configuration-management-system**](https://github.com/bolespolo4/centralized-configuration-management-system) | centralized multi-environment config management | CLI tooling |
+| [**technogroup**](https://github.com/bolespolo4/technogroup) | web application | TypeScript |
+| [**ToDo-Vanilla**](https://github.com/bolespolo4/ToDo-Vanilla) | smart filters · priorities · sorting · LocalStorage persistence | Vanilla JavaScript |
+| [**CI workflows with GitHub Actions**](https://github.com/bolespolo4/Build-CI-workflows-by-using-GitHub-Actions) · [GitHub Script](https://github.com/bolespolo4/GitHub-Script-in-GitHub-Actions) | automated build/test/validation pipelines · GitHub API automation in CI | GitHub Actions · Python |
+| [**portifilio**](https://github.com/bolespolo4/portifilio) | this portfolio site — five chapters of case studies | HTML · CSS · JS |
+| [**AirBnB clone**](https://github.com/bolespolo4/AirBnB_clone) · [v2](https://github.com/bolespolo4/AirBnB_clone_v2) + ALX SE track | console clone · web framework · low-level C · shell/devops scripting | Python · C · Shell |
+| **Android & Flutter fundamentals** — [8 small apps](https://github.com/bolespolo4?tab=repositories&q=app&type=source) | lists, navigation, media playback, converters · early hands-on native work | Java · Dart |
 
 ---
 
