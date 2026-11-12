@@ -54,32 +54,80 @@ class BoulesHisham {
 
 ## 🛠️ Tech Stack
 
-<p align="center"><code>MOBILE</code><br />
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio&theme=dark" alt="Flutter, Dart, Kotlin, Swift, Android Studio" /><br /><img src="https://img.shields.io/badge/BLoC_%2F_Cubit-10234A?style=flat-square" alt="BLoC / Cubit" /> <img src="https://img.shields.io/badge/Clean_Architecture-10234A?style=flat-square" alt="Clean Architecture" /> <img src="https://img.shields.io/badge/SOLID-10234A?style=flat-square" alt="SOLID" /> <img src="https://img.shields.io/badge/Sealed_Classes_(Dart_3)-10234A?style=flat-square" alt="Sealed Classes (Dart 3)" /> <img src="https://img.shields.io/badge/Repository_Pattern-10234A?style=flat-square" alt="Repository Pattern" />
+<h4 align="center">📱 Mobile</h4>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio&theme=dark" alt="Flutter, Dart, Kotlin, Swift, Android Studio" />
 </p>
 
-<p align="center"><code>BACKEND &amp; WEB</code><br />
-<img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,nextjs,dotnet,cs,django,laravel,react,vue&theme=dark" alt="Node.js, TypeScript, NestJS, Next.js, .NET, C#, Django, Laravel, React, Vue" /><br /><img src="https://img.shields.io/badge/REST_APIs-10234A?style=flat-square" alt="REST APIs" /> <img src="https://img.shields.io/badge/JWT_auth-10234A?style=flat-square" alt="JWT auth" /> <img src="https://img.shields.io/badge/WebSockets-10234A?style=flat-square" alt="WebSockets" />
+<p align="center">
+<img src="https://img.shields.io/badge/BLoC_%2F_Cubit-10234A?style=flat-square" alt="BLoC / Cubit" />&nbsp;
+<img src="https://img.shields.io/badge/Clean_Architecture-10234A?style=flat-square" alt="Clean Architecture" />&nbsp;
+<img src="https://img.shields.io/badge/SOLID-10234A?style=flat-square" alt="SOLID" />&nbsp;
+<img src="https://img.shields.io/badge/Sealed_Classes_(Dart_3)-10234A?style=flat-square" alt="Sealed Classes (Dart 3)" />&nbsp;
+<img src="https://img.shields.io/badge/Repository_Pattern-10234A?style=flat-square" alt="Repository Pattern" />
 </p>
 
-<p align="center"><code>ERP PLATFORMS</code><br />
-<img src="https://img.shields.io/badge/Microsoft_Dynamics-10234A?style=flat-square" alt="Microsoft Dynamics" /> <img src="https://img.shields.io/badge/HRMS_%2F_CRM_%2F_Asset_Management-10234A?style=flat-square" alt="HRMS / CRM / Asset Management" />
+<h4 align="center">🌐 Backend &amp; Web</h4>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,nextjs,dotnet,cs,django,laravel,react,vue&theme=dark" alt="Node.js, TypeScript, NestJS, Next.js, .NET, C#, Django, Laravel, React, Vue" />
 </p>
 
-<p align="center"><code>DATA &amp; FIREBASE</code><br />
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,firebase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Prisma, Firebase" /><br /><img src="https://img.shields.io/badge/ObjectBox-10234A?style=flat-square" alt="ObjectBox" /> <img src="https://img.shields.io/badge/Realtime_DB-10234A?style=flat-square" alt="Realtime DB" /> <img src="https://img.shields.io/badge/FCM-10234A?style=flat-square" alt="FCM" /> <img src="https://img.shields.io/badge/Crashlytics-10234A?style=flat-square" alt="Crashlytics" /> <img src="https://img.shields.io/badge/Analytics-10234A?style=flat-square" alt="Analytics" />
+<p align="center">
+<img src="https://img.shields.io/badge/REST_APIs-10234A?style=flat-square" alt="REST APIs" />&nbsp;
+<img src="https://img.shields.io/badge/JWT_auth-10234A?style=flat-square" alt="JWT auth" />&nbsp;
+<img src="https://img.shields.io/badge/WebSockets-10234A?style=flat-square" alt="WebSockets" />&nbsp;
+<img src="https://img.shields.io/badge/Microsoft_Dynamics-10234A?style=flat-square" alt="Microsoft Dynamics" />&nbsp;
+<img src="https://img.shields.io/badge/HRMS_%2F_CRM_%2F_Asset_Management-10234A?style=flat-square" alt="HRMS / CRM / Asset Management" />
 </p>
 
-<p align="center"><code>DEVOPS &amp; CI/CD</code><br />
-<img src="https://skillicons.dev/icons?i=githubactions,docker,gradle,ubuntu,bash&theme=dark" alt="GitHub Actions, Docker, Gradle, Ubuntu, Bash" /><br /><img src="https://img.shields.io/badge/Fastlane-10234A?style=flat-square" alt="Fastlane" /> <img src="https://img.shields.io/badge/CocoaPods-10234A?style=flat-square" alt="CocoaPods" /> <img src="https://img.shields.io/badge/CapRover-10234A?style=flat-square" alt="CapRover" /> <img src="https://img.shields.io/badge/VPS_management-10234A?style=flat-square" alt="VPS management" />
+<h4 align="center">🗄️ Data &amp; Firebase</h4>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,firebase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Prisma, Firebase" />
 </p>
 
-<p align="center"><code>SECURITY</code><br />
-<img src="https://img.shields.io/badge/Firebase_App_Check-10234A?style=flat-square" alt="Firebase App Check" /> <img src="https://img.shields.io/badge/Play_Integrity-10234A?style=flat-square" alt="Play Integrity" /> <img src="https://img.shields.io/badge/RASP_(cert_pinning_%2F_root_detection)-10234A?style=flat-square" alt="RASP (cert pinning / root detection)" /> <img src="https://img.shields.io/badge/mTLS-10234A?style=flat-square" alt="mTLS" /> <img src="https://img.shields.io/badge/SSH_key_access_control-10234A?style=flat-square" alt="SSH key access control" />
+<p align="center">
+<img src="https://img.shields.io/badge/ObjectBox-10234A?style=flat-square" alt="ObjectBox" />&nbsp;
+<img src="https://img.shields.io/badge/Realtime_DB-10234A?style=flat-square" alt="Realtime DB" />&nbsp;
+<img src="https://img.shields.io/badge/FCM-10234A?style=flat-square" alt="FCM" />&nbsp;
+<img src="https://img.shields.io/badge/Crashlytics-10234A?style=flat-square" alt="Crashlytics" />&nbsp;
+<img src="https://img.shields.io/badge/Analytics-10234A?style=flat-square" alt="Analytics" />
 </p>
 
-<p align="center"><code>AI &amp; AGENTIC</code><br />
-<img src="https://img.shields.io/badge/MCP-10234A?style=flat-square" alt="MCP" /> <img src="https://img.shields.io/badge/RooCode_custom_modes-10234A?style=flat-square" alt="RooCode custom modes" /> <img src="https://img.shields.io/badge/OpenRouter-10234A?style=flat-square" alt="OpenRouter" /> <img src="https://img.shields.io/badge/Claude-10234A?style=flat-square" alt="Claude" /> <img src="https://img.shields.io/badge/Ollama_(self--hosted)-10234A?style=flat-square" alt="Ollama (self-hosted)" /> <img src="https://img.shields.io/badge/GitHub_Copilot-10234A?style=flat-square" alt="GitHub Copilot" />
+<h4 align="center">⚙️ DevOps &amp; CI/CD</h4>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=githubactions,docker,gradle,ubuntu,bash&theme=dark" alt="GitHub Actions, Docker, Gradle, Ubuntu, Bash" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Fastlane-10234A?style=flat-square" alt="Fastlane" />&nbsp;
+<img src="https://img.shields.io/badge/CocoaPods-10234A?style=flat-square" alt="CocoaPods" />&nbsp;
+<img src="https://img.shields.io/badge/CapRover-10234A?style=flat-square" alt="CapRover" />&nbsp;
+<img src="https://img.shields.io/badge/VPS_management-10234A?style=flat-square" alt="VPS management" />
+</p>
+
+<h4 align="center">🔐 Security</h4>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Firebase_App_Check-10234A?style=flat-square" alt="Firebase App Check" />&nbsp;
+<img src="https://img.shields.io/badge/Play_Integrity-10234A?style=flat-square" alt="Play Integrity" />&nbsp;
+<img src="https://img.shields.io/badge/RASP_(cert_pinning_%2F_root_detection)-10234A?style=flat-square" alt="RASP (cert pinning / root detection)" />&nbsp;
+<img src="https://img.shields.io/badge/mTLS-10234A?style=flat-square" alt="mTLS" />&nbsp;
+<img src="https://img.shields.io/badge/SSH_key_access_control-10234A?style=flat-square" alt="SSH key access control" />
+</p>
+
+<h4 align="center">🤖 AI &amp; Agentic</h4>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MCP-10234A?style=flat-square" alt="MCP" />&nbsp;
+<img src="https://img.shields.io/badge/RooCode_custom_modes-10234A?style=flat-square" alt="RooCode custom modes" />&nbsp;
+<img src="https://img.shields.io/badge/OpenRouter-10234A?style=flat-square" alt="OpenRouter" />&nbsp;
+<img src="https://img.shields.io/badge/Claude-10234A?style=flat-square" alt="Claude" />&nbsp;
+<img src="https://img.shields.io/badge/Ollama_(self--hosted)-10234A?style=flat-square" alt="Ollama (self-hosted)" />&nbsp;
+<img src="https://img.shields.io/badge/GitHub_Copilot-10234A?style=flat-square" alt="GitHub Copilot" />
 </p>
 
 ---
@@ -183,8 +231,10 @@ Two open-source Flutter dev tools: build-time model code generation, and compile
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bolespolo4&show_icons=true&hide_border=false&count_private=true&bg_color=060E1F&title_color=4C9DFF&text_color=E6EEFB&icon_color=4C9DFF&border_color=10234A" alt="bolespolo4 GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolespolo4&layout=compact&hide_border=false&bg_color=060E1F&title_color=4C9DFF&text_color=E6EEFB&border_color=10234A" alt="Top languages" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bolespolo4&theme=github_dark" alt="GitHub profile summary" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bolespolo4&theme=github_dark" alt="GitHub stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bolespolo4&theme=github_dark" alt="Top languages by repository" width="49%" />
 
 <img src="https://streak-stats.demolab.com/?user=bolespolo4&background=060E1F&ring=4C9DFF&fire=4C9DFF&currStreakLabel=4C9DFF&sideLabels=E6EEFB&currStreakNum=E6EEFB&sideNums=E6EEFB&dates=9DB2D6&stroke=10234A&border=10234A" alt="GitHub streak" />
 
