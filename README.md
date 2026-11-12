@@ -2,7 +2,7 @@
 
 <img src="./assets/header.svg" alt="Boules Hisham Mokhtar, Senior Software Engineer, Lead Mobile Architect, AI and Agentic AI" width="100%" />
 
-<br />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=4C9DFF&center=true&vCenter=true&width=640&height=44&lines=Lead+Mobile+Architect+%C2%B7+20%2B+Production+Apps;Flutter+%C2%B7+Dart+3+%C2%B7+Clean+Architecture;Agentic+AI+%C2%B7+Self-Hosted+CI%2FCD+%C2%B7+Security-First;Build+it+right+%E2%80%94+not+just+make+it+work." alt="Lead Mobile Architect — 20+ production apps — build it right, not just make it work" />
 
 <a href="https://bolespolo4.github.io/portifilio/"><img src="https://img.shields.io/badge/Portfolio-bolespolo4.github.io%2Fportifilio-4C9DFF?style=flat-square&labelColor=10234A" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/boules-engineer/"><img src="https://img.shields.io/badge/LinkedIn-boules--engineer-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
@@ -55,11 +55,11 @@ class BoulesHisham {
 ## 🛠️ Tech Stack
 
 <p align="center"><code>MOBILE</code><br />
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio&theme=dark" alt="" /><br /><img src="https://img.shields.io/badge/BLoC_%2F_Cubit-10234A?style=flat-square" alt="BLoC / Cubit" /> <img src="https://img.shields.io/badge/Clean_Architecture-10234A?style=flat-square" alt="Clean Architecture" /> <img src="https://img.shields.io/badge/SOLID-10234A?style=flat-square" alt="SOLID" /> <img src="https://img.shields.io/badge/Sealed_Classes_(Dart_3)-10234A?style=flat-square" alt="Sealed Classes (Dart 3)" /> <img src="https://img.shields.io/badge/Repository_Pattern-10234A?style=flat-square" alt="Repository Pattern" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio&theme=dark" alt="Flutter, Dart, Kotlin, Swift, Android Studio" /><br /><img src="https://img.shields.io/badge/BLoC_%2F_Cubit-10234A?style=flat-square" alt="BLoC / Cubit" /> <img src="https://img.shields.io/badge/Clean_Architecture-10234A?style=flat-square" alt="Clean Architecture" /> <img src="https://img.shields.io/badge/SOLID-10234A?style=flat-square" alt="SOLID" /> <img src="https://img.shields.io/badge/Sealed_Classes_(Dart_3)-10234A?style=flat-square" alt="Sealed Classes (Dart 3)" /> <img src="https://img.shields.io/badge/Repository_Pattern-10234A?style=flat-square" alt="Repository Pattern" />
 </p>
 
 <p align="center"><code>BACKEND &amp; WEB</code><br />
-<img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,nextjs,dotnet,cs,django,laravel,react,vue&theme=dark" alt="" /><br /><img src="https://img.shields.io/badge/REST_APIs-10234A?style=flat-square" alt="REST APIs" /> <img src="https://img.shields.io/badge/JWT_auth-10234A?style=flat-square" alt="JWT auth" /> <img src="https://img.shields.io/badge/WebSockets-10234A?style=flat-square" alt="WebSockets" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,nextjs,dotnet,cs,django,laravel,react,vue&theme=dark" alt="Node.js, TypeScript, NestJS, Next.js, .NET, C#, Django, Laravel, React, Vue" /><br /><img src="https://img.shields.io/badge/REST_APIs-10234A?style=flat-square" alt="REST APIs" /> <img src="https://img.shields.io/badge/JWT_auth-10234A?style=flat-square" alt="JWT auth" /> <img src="https://img.shields.io/badge/WebSockets-10234A?style=flat-square" alt="WebSockets" />
 </p>
 
 <p align="center"><code>ERP PLATFORMS</code><br />
@@ -67,11 +67,11 @@ class BoulesHisham {
 </p>
 
 <p align="center"><code>DATA &amp; FIREBASE</code><br />
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,firebase&theme=dark" alt="" /><br /><img src="https://img.shields.io/badge/ObjectBox-10234A?style=flat-square" alt="ObjectBox" /> <img src="https://img.shields.io/badge/Realtime_DB-10234A?style=flat-square" alt="Realtime DB" /> <img src="https://img.shields.io/badge/FCM-10234A?style=flat-square" alt="FCM" /> <img src="https://img.shields.io/badge/Crashlytics-10234A?style=flat-square" alt="Crashlytics" /> <img src="https://img.shields.io/badge/Analytics-10234A?style=flat-square" alt="Analytics" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,firebase&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, Prisma, Firebase" /><br /><img src="https://img.shields.io/badge/ObjectBox-10234A?style=flat-square" alt="ObjectBox" /> <img src="https://img.shields.io/badge/Realtime_DB-10234A?style=flat-square" alt="Realtime DB" /> <img src="https://img.shields.io/badge/FCM-10234A?style=flat-square" alt="FCM" /> <img src="https://img.shields.io/badge/Crashlytics-10234A?style=flat-square" alt="Crashlytics" /> <img src="https://img.shields.io/badge/Analytics-10234A?style=flat-square" alt="Analytics" />
 </p>
 
 <p align="center"><code>DEVOPS &amp; CI/CD</code><br />
-<img src="https://skillicons.dev/icons?i=githubactions,docker,gradle,ubuntu,bash&theme=dark" alt="" /><br /><img src="https://img.shields.io/badge/Fastlane-10234A?style=flat-square" alt="Fastlane" /> <img src="https://img.shields.io/badge/CocoaPods-10234A?style=flat-square" alt="CocoaPods" /> <img src="https://img.shields.io/badge/CapRover-10234A?style=flat-square" alt="CapRover" /> <img src="https://img.shields.io/badge/VPS_management-10234A?style=flat-square" alt="VPS management" />
+<img src="https://skillicons.dev/icons?i=githubactions,docker,gradle,ubuntu,bash&theme=dark" alt="GitHub Actions, Docker, Gradle, Ubuntu, Bash" /><br /><img src="https://img.shields.io/badge/Fastlane-10234A?style=flat-square" alt="Fastlane" /> <img src="https://img.shields.io/badge/CocoaPods-10234A?style=flat-square" alt="CocoaPods" /> <img src="https://img.shields.io/badge/CapRover-10234A?style=flat-square" alt="CapRover" /> <img src="https://img.shields.io/badge/VPS_management-10234A?style=flat-square" alt="VPS management" />
 </p>
 
 <p align="center"><code>SECURITY</code><br />
@@ -79,7 +79,7 @@ class BoulesHisham {
 </p>
 
 <p align="center"><code>AI &amp; AGENTIC</code><br />
-<img src="https://img.shields.io/badge/MCP-10234A?style=flat-square" alt="MCP" /> <img src="https://img.shields.io/badge/RooCode_custom_modes-10234A?style=flat-square" alt="RooCode custom modes" /> <img src="https://img.shields.io/badge/OpenRouter-10234A?style=flat-square" alt="OpenRouter" /> <img src="https://img.shields.io/badge/Claude-10234A?style=flat-square" alt="Claude" /> <img src="https://img.shields.io/badge/Ollama_(self--hosted)-10234A?style=flat-square" alt="Ollama (self--hosted)" /> <img src="https://img.shields.io/badge/GitHub_Copilot-10234A?style=flat-square" alt="GitHub Copilot" />
+<img src="https://img.shields.io/badge/MCP-10234A?style=flat-square" alt="MCP" /> <img src="https://img.shields.io/badge/RooCode_custom_modes-10234A?style=flat-square" alt="RooCode custom modes" /> <img src="https://img.shields.io/badge/OpenRouter-10234A?style=flat-square" alt="OpenRouter" /> <img src="https://img.shields.io/badge/Claude-10234A?style=flat-square" alt="Claude" /> <img src="https://img.shields.io/badge/Ollama_(self--hosted)-10234A?style=flat-square" alt="Ollama (self-hosted)" /> <img src="https://img.shields.io/badge/GitHub_Copilot-10234A?style=flat-square" alt="GitHub Copilot" />
 </p>
 
 ---
@@ -122,6 +122,10 @@ Built a custom AI-assisted development setup for the PAAS monorepo rather than u
 - 🧩 Custom RooCode modes tuned separately for frontend, Flutter/mobile, and DevSecOps workflows
 - 🖥️ Self-hosted Ollama on a VPS running `qwen2.5-coder` and `qwen3-coder`, wired into Android Studio and VS Code via the Continue CLI
 
+<details>
+<summary><strong>🧰 More projects & tooling</strong> — macOS menu bar app, internal packages, CLIs and code generators</summary>
+<br />
+
 ### 🎙️ JARVIS-Inspired Menu Bar App
 > Swift · SwiftUI · macOS · AppKit
 
@@ -144,20 +148,17 @@ Production CLI for multi-environment config orchestration with graceful API fall
 
 Two open-source Flutter dev tools: build-time model code generation, and compile-time-safe access to UI resources (colors, fonts, assets).
 
+</details>
+
 ---
 
 ## 💼 Experience
 
-```text
-Senior Software Engineer — Lead Mobile Architect
-Qara Digital Solutions · Sep 2023 – Present · Cairo, Egypt / Remote (KSA)
-
-Head of Mobile Development
-CorporateStack Solutions · Mar 2022 – Sep 2023 · Cairo, Egypt
-
-Full-Stack Developer
-Ergasti Digital · Oct 2019 – Mar 2022 · Cairo, Egypt
-```
+| Role | Company | Period |
+| :--- | :--- | :--- |
+| **Senior Software Engineer — Lead Mobile Architect** | Qara Digital Solutions · Remote (KSA) | Sep 2023 – Present |
+| **Head of Mobile Development** | CorporateStack Solutions · Cairo, Egypt | Mar 2022 – Sep 2023 |
+| **Full-Stack Developer** | Ergasti Digital · Cairo, Egypt | Oct 2019 – Mar 2022 |
 
 ---
 
@@ -167,8 +168,6 @@ Ergasti Digital · Oct 2019 – Mar 2022 · Cairo, Egypt
 - 🎓 **CS50: Introduction to Programming with Python** — Harvard University
 - 🏅 **Flutter Apprentice** — Google
 - 🎓 **The Complete Flutter & Dart Bootcamp** — Udemy
-
----
 
 ---
 
@@ -193,22 +192,18 @@ Ergasti Digital · Oct 2019 – Mar 2022 · Cairo, Egypt
 
 ---
 
-## 🌍 Languages
+## 🌍 Languages &nbsp;·&nbsp; 🤝 Open To
 
-- 🇪🇬 **Arabic** — Native
-- 🇬🇧 **English** — Professional Proficiency
-- 🇪🇸 **Spanish** — Beginner
-
----
-
-## 🤝 Open To
-
-- 💼 Senior Software Engineer / Mobile Architect roles
-- 🌍 Remote positions worldwide
-- ✈️ Relocation opportunities
-- 🧩 Freelance/contract Flutter work — active on Mostaql, with PAAS as a credibility anchor
-- 🤝 Open-source collaboration on Flutter packages
+| 🌍 Languages | 🤝 Open to |
+| :--- | :--- |
+| 🇪🇬 **Arabic** — Native | 💼 Senior Software Engineer / Mobile Architect roles |
+| 🇬🇧 **English** — Professional Proficiency | 🌍 Remote positions worldwide · ✈️ Relocation |
+| 🇪🇸 **Spanish** — Beginner | 🧩 Freelance/contract Flutter work (active on Mostaql) · 🤝 OSS collaboration on Flutter packages |
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/boules-engineer/) [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bolespolo4@gmail.com)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-4C9DFF?style=for-the-badge&labelColor=10234A)](https://bolespolo4.github.io/portifilio/) [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/boules-engineer/) [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bolespolo4@gmail.com)
+
+</div>
